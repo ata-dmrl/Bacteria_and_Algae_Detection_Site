@@ -1,0 +1,41 @@
+Actinastrum %15
+Algal %15
+Anabaenopsis %25
+Anathece %25
+Ankistrodesmus %15
+Aphanizomenon gracile %25
+Aphanocapsa %25
+Aphanothece %25
+Arthrospira %25
+Centric diatom %15
+Ceratium hirudinella %10
+Chroococcus %25
+Chroomonas %10
+Closterium %15
+Cosmarium %15
+Cryptomonas %10
+Cuspidothrix issatchenkoi %25
+Cyanobacteria %25
+Cyanonephron styloides %25
+Dinoflagellate %10
+Dolichospermum %25
+Limnolyngbya circumcreta %25
+Merismopedia %25
+Microalgae %15
+Microcystis %25
+Monoraphidium %15
+Nodularia spumigena %25
+OtherA %15
+Pennate diatom %15
+Planktolyngbya %25
+Planktothrix %25
+Pseudanabaena %25
+Romeria %15
+Sphaerocystis %15
+Sphaerospermopsis %25
+Staurastrum %15
+Synechococcus %25
+Trachelomonas %15
+Trichodesmium %25
+Willea %15
+OtherA %5

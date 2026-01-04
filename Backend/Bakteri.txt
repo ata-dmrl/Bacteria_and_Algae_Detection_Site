@@ -1,0 +1,8 @@
+Bacillus %40
+ENTERCOCUS %40
+Escherichia Coli %40
+OtherBakteri %40
+Rodbacteria %40
+Sphericalbacteria %40
+Staphylococcus %40
+OtherBakteri %5
