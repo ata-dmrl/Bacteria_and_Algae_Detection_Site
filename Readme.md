@@ -14,5 +14,6 @@ npm run dev
 cd ...\Mikrobiyoloji\Backend
 python app.py
 ```
-
+![WebGörünüm](WebGörünüm.png)
+![DetectionAfter](Detection.png)
 ⚠️ Uyarı: Bu sistem %100 kesin sonuç vermez. Tespit sonrası elde edilen bulguların doğrulanması için mutlaka laboratuvar ortamında ek testler yapılmalıdır.
